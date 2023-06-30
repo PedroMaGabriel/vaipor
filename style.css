@@ -1,0 +1,190 @@
+img {
+    font-size: 100%;
+    position: absolute;
+    top: 0%;
+    width: 99.9%;
+    height: 99.9%;
+    left: 0%;
+}
+
+h1 {
+    position: absolute;
+    top: -65px;
+    left: 34%;
+    font-size: 80px;
+    color: rgb(14, 255, 6);
+}
+
+.favela {
+    position: absolute;
+    left: 35.5%;
+    top: 7%;
+    color: #141414;
+    font-size: 60px;
+}
+
+canvas {
+    border-radius: 40px;
+    background-color: #141414;
+    background-color: transparent;
+    position: absolute;
+    left: 35%;
+    top:-65%;
+}
+
+img {
+    font-size: 50%;
+    position: absolute;
+    right: 25%;
+    bottom: 59%;
+}
+
+
+input {
+    position: absolute;
+    bottom: 70%;
+    right: 38%;
+    font-size: 30px;
+}
+
+.game {
+    position: absolute;
+    left: 36.5%;
+    top: 26%;
+    font-size: 60px;
+}
+
+.you {
+    position: absolute;
+    right: 38%;
+    bottom: 51.7%;
+    font-size: 30px;
+}
+
+.Hgg {
+    position: absolute;
+    left: 32.5%;
+    top: 44%;
+    font-size: 60px;
+}
+
+.parc {
+    position: absolute;
+    bottom: 33.4%;
+}
+
+button {
+    position: absolute;
+    left: 41%;
+    top: 75%;
+    border-radius: 40px;
+    font-size: 170%;
+    background-color: #141414;
+    color: #001aff;
+}
+
+.canva {
+    position: absolute;
+    left: 74.9%;
+    top: 10%;
+    font-size: 50%;
+    height: 74%;
+    width: 25%;
+}
+
+.hzz {
+    position: absolute;
+    left: 82%;
+    top: 10%;
+    background-color: transparent;
+    font-size: 250%;
+    color: #001aff;
+    width: 10%;
+}
+
+.parcela {
+    position: absolute;
+    left: 79%;
+    top: 50%;
+    color: black;
+    font-size: 290%;
+}
+
+.nad{
+    color: #001aff;
+    position: absolute;
+    left: 78%;
+    top: 23%;
+    font-size: 340%;
+}    
+
+.traba {
+    color: #001aff;
+    top: 34%;
+    left: 79%;
+    font-size: 290%;
+}
+
+.trabal {
+    color: #141414;
+    position: absolute;
+    left: 78%;
+    top: 50%;
+    font-size: 340%;
+
+}
+
+.canvas {
+    position: absolute;
+    left: 0%;
+    top: 10%;
+    font-size: 50%;
+    background-color: #4558ff;
+    background-color: transparent;
+    height: 74%;
+    width: 25%;;
+}
+
+.texto {
+    position: absolute;
+    left: 2.9%;
+    color: #001aff;
+    font-size: 250%;
+    top: 13%;
+}
+
+.juross {
+    position: absolute;
+    left: 3%;
+    top: 23%;
+    font-size: 340%;
+}
+
+.blab {
+    position: absolute;
+    left: 1%;
+    top: 36%;
+    font-size: 290%;
+}
+
+.ver {
+    position: absolute;
+    left: 3%;
+    top: 52%;
+    font-size: 290%;
+}
+
+.bill {
+    position: absolute;
+    color: #141414;
+    left: 26%;
+    top: 80%;
+    font-size: 290%;
+}
+
+.ultimo {
+    position: absolute;
+    left: 58%;
+    top: 79%;
+    font-size: 340%;
+}
